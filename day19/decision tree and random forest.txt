@@ -1,0 +1,8 @@
+entropy:
+	measurement of randomness
+works on decesion tree to split the data
+ID3(algorithm)
+
+combination of decision trees: random forest
+
+DecisionTreeRegressor class is used

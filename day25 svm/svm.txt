@@ -1,0 +1,5 @@
+
+Support vector machine:
+    classification type
+    hyperplane: we only check the nearest data points and plot the line which have maximum margin
+    applicable on small dataset

@@ -1,0 +1,31 @@
+
+
+The details of the live project are as follows: 
+
+We will work on analyzing the weather in New Delhi. For that, first of all, you need to crawl the data. 
+
+Write a script that crawls all the weather related parameters (hourly). 
+
+After that, generate some insights from it via data visualizations. 
+
+Also crawl weather parameters from cities around Delhi to see if they have any correlation with Delhi's weather 
+
+Make sure that you get as much data as possible so that we can get accurate results. 
+
+Next step will be to make a predictive model which predicts the weather every three hours. The results of the model should be optimized using root mean squared error and proper validation techniques. 
+
+This project should give you a feel of the entire data science pipeline. that is: 
+
+1) Data Fetching 
+
+2) Data Analysis 
+
+3) Data Visualization 
+
+4) Feature Engineering 
+
+5) Data Modelling 
+
+6) Metric Optimization 
+
+7) Cross Validation 

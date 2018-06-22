@@ -1,0 +1,13 @@
+1. import data set -DF
+2. features, labels(Dependent Variable)
+3. Missing values - imputation 
+sklearn{imputer : for numerical only} , pandas{fillna : for numerical   and textual}
+4. Label encoding - categorical data
+LabelEncoder ,  cat.code (for category data type)
+5. order issue : onehotencoding (dummy encoding)
+OneHotEncoder , get_dummies
+6.train_test_split()
+7.Feature Scaling : To make the data in same scale so that all features are equally important
+	a)Min-Max Scailing 
+		usually for image processing
+	b)Standard Scailing

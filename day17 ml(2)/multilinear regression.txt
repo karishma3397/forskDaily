@@ -1,0 +1,9 @@
+Multiple linear regression:
+	multiple collinearity(if we can find the value of last column by use of previous columns
+	in one hot encoding)
+	Dummy variable trap : Dropping last column
+	
+	
+	P-Value : probability of a column that a column came into our data set just by chance.
+	  
+		backward elimimation: removing columns whose p-values are greater than 5.

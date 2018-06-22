@@ -1,0 +1,13 @@
+Machine Learning
+
+	supervised learning:
+	labelled data
+		1)regression
+		
+			Linear Regression :  
+				least square regression line : sum of square of vertical distance of the data points from the line as small as possible.
+			OVERFITTING : over training of data
+			UNDERFITTING: less training of data
+		2)classification
+		
+	unsupervised learning

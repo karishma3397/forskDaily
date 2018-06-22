@@ -1,0 +1,10 @@
+
+
+Principal Component Analysis:(Feature Extraction)
+    Dimentional Reduction m-dimnetion data to n-dimention data
+    information is still there 
+    after converting the new data columns are known as principal components
+    
+    the new principal components formed are eigen vectors and the values are eigen values.
+    
+    no check for dependent values

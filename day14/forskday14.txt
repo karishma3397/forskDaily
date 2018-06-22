@@ -1,0 +1,19 @@
+labelled DS
+label: dependent values
+features:independent values
+supervised machine learning: predictions
+
+
+no labelled DS
+unsupervised machine learning: no predictions, but we can group the data
+
+imputation: missing values 
+Imputer: class in sklearn.preprocessing
+imputer: any object of Imputer class
+imputer.fit(to fit in our data)
+imputer.transform : transform data
+
+
+categorical data : textual data
+perform label encoding: encoding textual data to numerical data
+perform one hot encoding

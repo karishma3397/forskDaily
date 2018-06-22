@@ -1,0 +1,14 @@
+Unsupervised learning:
+	no labels so no predictions from features
+	
+	we can only divide the data to clusters which exhibits similar properties
+	
+	voronoid diagram(check)
+	
+	wcss:within clusters sum of squares
+	
+	kmeans.inertia : gives value of wcss
+	
+	elbow method: knee band gives the clusters, max angle gives right no of clusters
+	
+	

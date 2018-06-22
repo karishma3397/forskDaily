@@ -1,0 +1,7 @@
+remotely accessing database:
+REST APIs: provided by companies
+Web Scrapping: unethical access to APIs provided by companies
+weather data available here: openweathermap.org
+API Keys: unique key for accessing api of a particular person, now the cloud knows to whom the data is to be provided
+jsonlint.com : for validating json data
+swaggerUI : Used to design rest APIs

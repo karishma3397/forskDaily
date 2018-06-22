@@ -1,0 +1,5 @@
+apriori: market basket analysis
+	support{1}=bought / total
+	confidence{1->2} = support{1,2}/ support{1}
+	lift{1->2}= support{1,2)/support{1}*support{2}
+		negative, neutral and strong association
